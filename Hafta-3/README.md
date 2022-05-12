@@ -1,1 +1,0 @@
-# AliKursadCorapsiz-Hafta3
