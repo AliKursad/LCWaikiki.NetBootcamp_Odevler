@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Product.Data\ProductAPI.Data.csproj" />
+    <ProjectReference Include="..\ProductAPI.Entities\ProductAPI.Entities.csproj" />
+    <ProjectReference Include="..\ProductAPI.Shared\ProductAPI.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
