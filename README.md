@@ -1,7 +1,7 @@
 # Patika.dev_LCWBootcamp_Odevler
 
 ### Hafta-1
-  * InMemory Database kullanarak oluşturulan örnek bir Web API projesi.
+  * InMemory Database kullanılarak oluşturulan örnek bir Web API projesi.
 
 ### Hafta-2
   * Entity Framework kullanılarak katmanlı mimaride hazırlanmış bir Web API projesi.
