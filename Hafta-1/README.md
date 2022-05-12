@@ -1,2 +1,0 @@
-# AliKursadCorapsiz-Hafta1
-*
